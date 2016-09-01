@@ -4,7 +4,7 @@ Requires at least: 2.7
 Tested up to: 4.0
 Stable tag: 1.0
 
-Description: Tool to recognition and block vulgar language in comments.
+Description: Tool to recognition and flagged as spam vulgar language in comments.
 
 == Description ==
 

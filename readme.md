@@ -1,6 +1,6 @@
 VULGAR DETECTOR
 ============================
-Tool to recognition and block vulgar language in comments
+Tool to recognition and flagged as spam vulgar language in comments
 
 Description
 -----------
